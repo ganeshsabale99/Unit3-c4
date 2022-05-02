@@ -1,0 +1,32 @@
+#navbar{
+    display: flex;
+    padding: 5px;
+    margin: auto;
+    gap: 80px;
+    /* margin-left: 20px; */
+    background-color: antiquewhite;
+}
+#search_input{
+    width: 80%;
+    height: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+    font-size: medium;
+
+}
+
+#block-2{
+    display: block;
+}
+
+#sidebar{
+    width: 13%;
+    height:  92vh;
+    padding: 1%;
+    background-color: antiquewhite;
+
+}
+h3{
+    background-color: teal;
+    
+}
